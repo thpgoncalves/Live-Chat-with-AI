@@ -1,2 +1,2 @@
-# Live-Chat-with-AI
+# Live-ChatBot
 A live chat project integrating the user with the OpenAI API.
