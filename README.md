@@ -53,7 +53,7 @@ This is a FullStack project to build a ChatBot/Virtual Assistant that uses the O
 
 #### After the commands, the application should be running locally on a predefined access port and look like the screenshot below. Feel free to use your virtual assistant and ask for help whenever you need it.
 
-![alt text](example.png)
+![alt text](./frontend/images/example.png)
 
 <!-- CONTACT -->
 ## Contact
